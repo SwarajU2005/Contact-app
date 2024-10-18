@@ -22,9 +22,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
-#Firebase config
-src/config/firebase.js
-
 # Environment variables
 .env
